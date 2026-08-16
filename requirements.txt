@@ -1,0 +1,11 @@
+# Direct dependencies for the I²S sonification analysis pipeline.
+# Standard-library modules are not listed.
+# spafe is pinned as analysis relies on its GFCC implementation and uses the default framing behaviour.
+
+numpy
+matplotlib
+pandas
+scipy
+scikit-learn
+statsmodels
+spafe==0.3.3
