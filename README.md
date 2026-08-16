@@ -15,4 +15,4 @@ The paper is entitled "Sonifying I²S Transport Signals to Detect Transmission F
 #### Dataset:
 + i2s_sonification_dataset
   + 300 Sonification Files
-  +  Manifest.csv
+  +  manifest.csv
